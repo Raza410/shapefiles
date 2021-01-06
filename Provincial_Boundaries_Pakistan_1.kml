@@ -9,7 +9,7 @@
 <Folder><name>Provincial_boundary_pak_Merg</name>
   <Placemark>
 	<name>Balochistan</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Balochistan</SimpleData>
@@ -19,7 +19,7 @@
   </Placemark>
   <Placemark>
 	<name>Federal Capital Territory ( Islamabad)</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Federal Capital Territory ( Islamabad)</SimpleData>
@@ -29,7 +29,7 @@
   </Placemark>
   <Placemark>
 	<name>Gilgit Baltistan</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Gilgit Baltistan</SimpleData>
@@ -39,7 +39,7 @@
   </Placemark>
   <Placemark>
 	<name>Jammu &amp; Kashmir</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Jammu &amp;amp; Kashmir</SimpleData>
@@ -49,7 +49,7 @@
   </Placemark>
   <Placemark>
 	<name>Azad Kashmir</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Azad Kashmir</SimpleData>
@@ -59,7 +59,7 @@
   </Placemark>
   <Placemark>
 	<name>Punjab</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Punjab</SimpleData>
@@ -69,7 +69,7 @@
   </Placemark>
   <Placemark>
 	<name>Sindh</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Sindh</SimpleData>
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
 	<name>Khyber Pakhtunkhwa</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Provincial_boundary_pak_Merg">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="PROVINCE">Khyber Pakhtunkhwa</SimpleData>
