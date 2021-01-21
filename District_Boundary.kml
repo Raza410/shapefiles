@@ -21,11 +21,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff005555</color>
+			<color>ff000000</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff005555</color>
+			<color>ff000000</color>
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
@@ -48,11 +48,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff005555</color>
+			<color>ff000000</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff005555</color>
+			<color>ff000000</color>
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
