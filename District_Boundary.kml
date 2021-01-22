@@ -22,7 +22,24 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff000000</color>
-			<width>3</width>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff000000</color>
@@ -39,23 +56,6 @@
 			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff000000</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ff000000</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Folder>
 		<name>District_Boundary</name>
 		<Placemark>

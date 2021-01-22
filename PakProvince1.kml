@@ -25,7 +25,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff000000</color>
-			<width>4</width>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff000000</color>
@@ -52,7 +52,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff000000</color>
-			<width>4</width>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff000000</color>
